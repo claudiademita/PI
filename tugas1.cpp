@@ -2,16 +2,16 @@
 
 using namespace std;
 
-int penjumlahan(){
+int pengurangan(){
   int a = 5;
   int b = 3;
   
-  cout<<"Hasil : "<<a+b<<endl;
+  cout<<"Hasil : "<<a-b<<endl;
   cout<<endl;
 }
 
 int main()
 {
-  penjumlahan();
+  pengurangan();
   return 0;
 }
