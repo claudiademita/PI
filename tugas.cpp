@@ -2,16 +2,16 @@
 
 using namespace std;
 
-int pengurangan(){
+int pembagian(){
   int a = 5;
   int b = 3;
   
-  cout<<"Hasil : "<<a-b<<endl;
+  cout<<"Hasil : "<<a\b<<endl;
   cout<<endl;
 }
 
 int main()
 {
-  pengurangan();
+  pembagian();
   return 0;
 }
